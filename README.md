@@ -1,6 +1,6 @@
 # The-thesis-with-phytoch
 Implementing a thesis with phytoch (논문 스터디)
-- VGGNet
+- VGGNet(2014)
 - Inception(2014, GoogLeNet): Going deeper with convolutions
 - ResNet(2015):Deep Residual Learning for Image Recognition
 - Attention is All you need(2017)
