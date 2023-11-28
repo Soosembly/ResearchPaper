@@ -1,4 +1,4 @@
-# The-thesis-with-phytoch
+# research paper
 Implementing a thesis with phytoch (논문 스터디)
 - **VGGNet (2014)**
   - 논문: "Very Deep Convolutional Networks for Large-Scale Image Recognition"
